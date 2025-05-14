@@ -1,3 +1,3 @@
-# Predicting-type-2-Diabetes
+# Predicting Type-2-Diabetes
 
-This is a project in progress relating to predicting individuals as type 2 non-diabetic, prediabetic, and diabetic.
+A machine learning project aimed at classifying individuals as non-diabetic, pre-diabetic, or diabetic based on health indicators and medical conditions, while identifying the most influential predictors.
